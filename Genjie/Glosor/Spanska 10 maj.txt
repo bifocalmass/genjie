@@ -1,0 +1,5 @@
+﻿Som du? = Como yo?
+du vill = quieres
+simma = nadar
+jag pratar = hablo
+du pratar = hablas
