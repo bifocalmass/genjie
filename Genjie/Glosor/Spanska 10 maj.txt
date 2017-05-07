@@ -1,5 +1,7 @@
-﻿Som du? = Como yo?
+﻿Som jag? = Como yo?
 du vill = quieres
 simma = nadar
 jag pratar = hablo
 du pratar = hablas
+jag studerar = estudio
+du studerar = estudias
