@@ -12,7 +12,9 @@ namespace Genjie
         {
             Console.OutputEncoding = Encoding.UTF8;
 
-            var glosor = File.ReadAllText(@"Glosor\Spanska 10 maj.txt");
+            var path = Path.Combine("Glosor", "Spanska 10 maj.txt");
+            var glosor = File.ReadAllText(path);
+
             //Console.WriteLine(glosor);
 
             var lines = glosor.Split(new[] { Environment.NewLine }, StringSplitOptions.RemoveEmptyEntries);
